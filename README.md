@@ -1,3 +1,5 @@
 # My-first-ever-OS
 my first ever OS
-i need some help booting this "OS" on a gaming Z390 gaming motherboard. Can anyone help?
+this is trash, don't try.
+first ever attempt at making an os, coming back later
+
